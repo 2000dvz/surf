@@ -1,0 +1,8 @@
+/* Scss Document */
+.header_slider-item {
+  height: 100vh;
+  background-image: url("../../../../img/IMG-a88b3c7fa6a5002f5710ae295d325e9d-V.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}

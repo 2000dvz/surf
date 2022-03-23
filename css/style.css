@@ -198,7 +198,7 @@ input[type=number] {
 
 .quantity-button.quantity-down {
   position: absolute;
-  right: 25px; }
+  right: 60px; }
 
 .star-list li {
   display: inline-block; }
@@ -1048,7 +1048,8 @@ input[type=number] {
     justify-content: center;
     align-items: center;
     padding-top: 16px;
-    transition: all .5c; }
+    transition: all .5c; 
+	}
     .menu.active {
       transform: translateX(0); }
 
